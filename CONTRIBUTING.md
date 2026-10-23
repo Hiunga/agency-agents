@@ -32,11 +32,13 @@ Have an idea for a specialized agent? Great! Here's how to add one:
 
 1. **Fork the repository**
 2. **Choose the appropriate category** (or propose a new one):
+   - `academic/` - Scholarly and research specialists (history, anthropology, geography, etc.)
    - `engineering/` - Software development specialists
    - `design/` - UX/UI and creative specialists
    - `game-development/` - Game design and development specialists
    - `marketing/` - Growth and marketing specialists
    - `paid-media/` - Paid acquisition and media specialists
+   - `sales/` - Sales and revenue specialists
    - `product/` - Product management specialists
    - `project-management/` - PM and coordination specialists
    - `testing/` - QA and testing specialists
